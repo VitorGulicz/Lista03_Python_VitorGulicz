@@ -6,4 +6,4 @@ if velcar>80:
     multa=(velcar-80)*5
     print("Multa do carro R$: {} Vitor Gulicz".format (multa))
 else:
-    print("Não multado")
+    print("Não multado Vitor Gulicz")
