@@ -17,4 +17,3 @@ elif "/" in opcao:
     print("Resultado da operação de divisão: {} Vitor Gulicz".format(resultado))
 else:
     print("Opção invalida Vitor Gulicz")
-    
