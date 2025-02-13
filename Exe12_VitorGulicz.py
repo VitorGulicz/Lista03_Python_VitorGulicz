@@ -15,5 +15,3 @@ elif "*" in opcao:
 elif "/" in opcao:
     resultado=n1/n2
     print("Resultado da operação de divisão: {} Vitor Gulicz".format(resultado))
-else:
-    print("Opção invalida Vitor Gulicz")
